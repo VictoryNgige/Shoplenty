@@ -1,0 +1,63 @@
+#heading1{
+    text-align: center;
+    background-color: chocolate;
+    line-height: 80px;
+    color: bisque;
+    text-decoration: underline;
+}
+.one{
+    font-weight: bold;
+    font-family: "Bitstream Charter";
+}
+#team{
+    background-color: crimson;
+    margin: 40px;
+    padding: 30px;
+    color: white;
+    border-radius: 20px;
+}
+#team:hover{
+    background-color: darksalmon;
+}
+#products{
+    display: flex;
+    margin: 20px;
+}
+#image{
+    margin-right: 30px;
+    border-radius: 200px;
+
+
+}
+#two{
+    display: flex;
+
+}
+#main{
+    display: flex;
+
+}
+.myimage{
+    width: 100% ;
+    height: 200px;
+}
+.sub{
+    text-align: center;
+    margin-left: 20px;
+
+}
+.sub h2{
+    color: #e50b3d;
+
+}
+.sub button{
+    background-color: #e4980c;
+    padding: 20px;
+    color: white;
+    border-radius: 20px;
+
+}
+
+
+
+
